@@ -1,0 +1,14 @@
+h1{
+	border-bottom: 3px solid;
+	font: bold;
+	color: #cecece;
+}
+
+.btn_simpan{
+	border: 1px solid #cecece;
+		border-radius: 3px;
+		padding: 3px 10px;
+		box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+		color: white;
+		background-color: red;
+}
